@@ -1,0 +1,2 @@
+1) Instalação da CLI
+>> npm install -g @angular/cli
